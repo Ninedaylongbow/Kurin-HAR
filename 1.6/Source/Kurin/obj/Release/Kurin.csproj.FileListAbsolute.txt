@@ -1,0 +1,13 @@
+G:\2326430787\1.5\Source\Kurin\obj\Release\Kurin.csproj.AssemblyReference.cache
+G:\2326430787\1.5\Source\Kurin\obj\Release\Kurin.csproj.CoreCompileInputs.cache
+G:\2326430787\1.5\Source\Kurin\bin\Release\Kurin.dll
+G:\2326430787\1.5\Source\Kurin\bin\Release\Kurin.pdb
+G:\2326430787\1.5\Source\Kurin\bin\Release\0Harmony.dll
+G:\2326430787\1.5\Source\Kurin\bin\Release\Assembly-CSharp.dll
+G:\2326430787\1.5\Source\Kurin\bin\Release\UnityEngine.CoreModule.dll
+G:\2326430787\1.5\Source\Kurin\bin\Release\UnityEngine.TextRenderingModule.dll
+G:\2326430787\1.5\Source\Kurin\bin\Release\UnityEngine.IMGUIModule.dll
+G:\2326430787\1.5\Source\Kurin\bin\Release\UnityEngine.InputLegacyModule.dll
+G:\2326430787\1.5\Source\Kurin\obj\Release\Kurin.csproj.Up2Date
+G:\2326430787\1.5\Source\Kurin\obj\Release\Kurin.dll
+G:\2326430787\1.5\Source\Kurin\obj\Release\Kurin.pdb

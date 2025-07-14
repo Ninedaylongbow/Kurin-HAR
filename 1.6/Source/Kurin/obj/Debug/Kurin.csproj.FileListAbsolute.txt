@@ -1,0 +1,18 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-master\1.1\Assemblies\Kurin.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-master\1.1\Assemblies\Kurin.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-master\1.1\Source\Kurin\obj\Debug\Kurin.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-master\1.1\Source\Kurin\obj\Debug\Kurin.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-master\1.1\Source\Kurin\obj\Debug\Kurin.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-master\1.1\Source\Kurin\obj\Debug\Kurin.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-HAR\1.4\Assemblies\Kurin.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-HAR\1.4\Assemblies\Kurin.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-HAR\1.4\Source\Kurin\obj\Debug\Kurin.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-HAR\1.4\Source\Kurin\obj\Debug\Kurin.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-HAR\1.4\Source\Kurin\obj\Debug\Kurin.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Kurin-HAR\1.4\Source\Kurin\obj\Debug\Kurin.pdb
+E:\Steam\steamapps\common\RimWorld\Mods\2326430787\1.5\Assemblies\Kurin.dll
+E:\Steam\steamapps\common\RimWorld\Mods\2326430787\1.5\Assemblies\Kurin.pdb
+E:\Steam\steamapps\common\RimWorld\Mods\2326430787\1.5\Source\Kurin\obj\Debug\Kurin.csproj.AssemblyReference.cache
+E:\Steam\steamapps\common\RimWorld\Mods\2326430787\1.5\Source\Kurin\obj\Debug\Kurin.csproj.CoreCompileInputs.cache
+E:\Steam\steamapps\common\RimWorld\Mods\2326430787\1.5\Source\Kurin\obj\Debug\Kurin.dll
+E:\Steam\steamapps\common\RimWorld\Mods\2326430787\1.5\Source\Kurin\obj\Debug\Kurin.pdb
